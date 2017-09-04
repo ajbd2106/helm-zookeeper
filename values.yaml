@@ -2,7 +2,7 @@
 # This is a YAML-formatted file.
 # Declare name/value pairs to be passed into your templates.
 # name: value
-Image: armdocker.rnd.ericsson.se/aia/base/aia-docker-zookeeper
+Image: gcr.io/google_samples/k8szk:v2
 ImageTag: latest
 Servers: 3
 Cpu: "1"
